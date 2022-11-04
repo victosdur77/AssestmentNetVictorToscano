@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor.Toscano\\source\\repos\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran.csproj": {}
+    "C:\\Users\\Victor.Toscano\\OneDrive - Solera Holdings, Inc\\Desktop\\Bootcamp\\AssestmentNet_Victor\\AssestmentNET_Victor\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor.Toscano\\source\\repos\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran.csproj": {
+    "C:\\Users\\Victor.Toscano\\OneDrive - Solera Holdings, Inc\\Desktop\\Bootcamp\\AssestmentNet_Victor\\AssestmentNET_Victor\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor.Toscano\\source\\repos\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran.csproj",
+        "projectUniqueName": "C:\\Users\\Victor.Toscano\\OneDrive - Solera Holdings, Inc\\Desktop\\Bootcamp\\AssestmentNet_Victor\\AssestmentNET_Victor\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran.csproj",
         "projectName": "AssestmentNET_VictorToscanoDuran",
-        "projectPath": "C:\\Users\\Victor.Toscano\\source\\repos\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran.csproj",
+        "projectPath": "C:\\Users\\Victor.Toscano\\OneDrive - Solera Holdings, Inc\\Desktop\\Bootcamp\\AssestmentNet_Victor\\AssestmentNET_Victor\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran.csproj",
         "packagesPath": "C:\\Users\\Victor.Toscano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor.Toscano\\source\\repos\\AssestmentNET_VictorToscanoDuran\\AssestmentNET_VictorToscanoDuran\\obj\\",
+        "outputPath": "C:\\Users\\Victor.Toscano\\OneDrive - Solera Holdings, Inc\\Desktop\\Bootcamp\\AssestmentNet_Victor\\AssestmentNET_Victor\\AssestmentNET_VictorToscanoDuran\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor.Toscano\\AppData\\Roaming\\NuGet\\NuGet.Config",
